@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627729156756",
+    "project_id": "footbase-55a3c",
+    "storage_bucket": "footbase-55a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627729156756:android:f670ed06f57157b6f54281",
+        "android_client_info": {
+          "package_name": "com.example.footiebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627729156756-5a2u11r45t71oafdhh2roespdn9dgaks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf83VQr73i-ovi_8tJvi2lmhq8s5ZWGpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627729156756-5a2u11r45t71oafdhh2roespdn9dgaks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
